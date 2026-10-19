@@ -3,17 +3,17 @@
 - Faço faculdade de ADS
 - 👍👍
 
-<!--
-**Henrique-Estrela-Correia115/Henrique-Estrela-Correia115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre Mim
+Sou um desenvolvedor iniciante focado em aprender novas tecnologias e construir projetos legais.
+- 📚 Atualmente estou aprendendo **HTML, CSS e JavaScript**.
+- 🎯 Meu objetivo é me tornar um desenvolvedor Full Stack.
+- 💬 Pergunte-me sobre qualquer coisa, estou sempre pronto para ajudar!
 
-Here are some ideas to get you started:
+### 🛠️ Minhas Tecnologias
+<p align="left">
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="JavaScript" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+)
