@@ -1,4 +1,7 @@
 ## Hi there 👋
+- Meu Nome é henrique :)
+- Faço faculdade de ADS
+- 👍👍
 
 <!--
 **Henrique-Estrela-Correia115/Henrique-Estrela-Correia115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
