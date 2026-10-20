@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src<img width="217" height="384" alt="tenor" src="https://github.com/user-attachments/assets/8a0518d2-19a5-4b2b-8493-5992e17cd992" />
+<img data-importer="image" align="right" height="150" src<img width="217" height="384" alt="tenor" src="https://github.com/user-
 
 
 <div data-importer="techs" align="left">
