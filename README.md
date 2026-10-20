@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Hey SEJA BEM VINDO' AO MEU MEU PREFIL </h1>
+<h1 data-importer="text" align="center">SEJA BEM VINDO' AO MEU MEU PREFIL </h1>
 
 ###
 
