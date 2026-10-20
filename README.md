@@ -1,8 +1,13 @@
-<h2 data-importer="text" align="left">oi seja bem vindo a o meu prefil ....</h2>
+<img width="217" height="384" alt="tenor" src="https://github.com/user-attachments/assets/a3adc10b-2623-4d0b-bb9d-8e1ba7e6f562" /><img width="217" height="384" alt="tenor" src="https://github.com/user-attachments/assets/68f533ee-9770-4f0b-9a6e-2cfa922be815" /><h2 data-importer="text" align="left">oi seja bem vindo a o meu prefil ....</h2>
 
 ###
 
-<img data-importer="image" align="right" height="150" src![Uploading tenor.gif…]()
+<img data-importer="image" align="right" height="150" src<img width="217" height="384" alt="tenor" src="https://github.com/user-attachments/assets/8a0518d2-19a5-4b2b-8493-5992e17cd992" />
+
+<img width="217" height="384" alt="tenor" src="https://github.com/user-attachments/assets/e3cb088c-32fe-4e8a-bf62-0e06738523a7" />
+
+<img width="217" height="384" alt="tenor" src="https://github.com/user-attachments/assets/e3cb088c-32fe-4e8a-bf62-0e06738523a7" />
+
 
 
 ###
