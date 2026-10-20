@@ -1,14 +1,8 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 data-importer="text" align="left">oi seja bem vindo a o meu prefil ....</h2>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="file:///C:/Users/Positivo/Downloads/tenor.gif"  />
-
-###
-
-<br clear="both">
-
-<img data-importer="image" align="right" height="150" src="file:///C:/Users/Positivo/Downloads/tenor.gif"  />
+<img data-importer="image" align="right" height="150" src="https://share.google/HncBnTkY6cl1MQt1N"  />
 
 ###
 
