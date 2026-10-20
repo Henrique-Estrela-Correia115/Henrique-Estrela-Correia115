@@ -1,8 +1,8 @@
 <h2 data-importer="text" align="left">oi seja bem vindo a o meu prefil ....</h2>
 
-###
 
-<img data-importer="image" align="right" height="63" src="<img width="217" height="384" alt="tenor" src="https://github.com/user-attachments/assets/e3cb088c-32fe-4e8a-bf62-0e06738523a7" />"  />
+
+<img width="217" height="384" alt="tenor" src="https://github.com/user-attachments/assets/e3cb088c-32fe-4e8a-bf62-0e06738523a7" />"  />
 
 ###
 
